@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+android:background="@drawable/title_red_bg"
+android:layout_width="match_parent"
+android:layout_height="wrap_content"
+    android:fitsSystemWindows="true">
+<TextView
+    android:id="@+id/tv_title"
+    android:text="标题"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_centerInParent="true"
+    android:textColor="@android:color/white"
+    android:textSize="23sp"/>
+<ImageButton
+    android:background="@android:color/transparent"
+    android:src="@drawable/img_menu"
+    android:id="@+id/ib_menu"
+    android:layout_marginLeft="8dp"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_centerVertical="true"
+    android:visibility="gone"/>
+    <ImageButton
+        android:background="@android:color/transparent"
+        android:src="@drawable/back"
+        android:id="@+id/ib_back"
+        android:layout_marginLeft="8dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:visibility="gone"/>
+    <LinearLayout
+        android:layout_alignParentRight="true"
+        android:layout_marginRight="8dp"
+        android:layout_centerVertical="true"
+        android:orientation="horizontal"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+        <ImageButton
+            android:background="@android:color/transparent"
+            android:src="@drawable/icon_textsize"
+            android:id="@+id/ib_textsize"
+            android:layout_marginLeft="8dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:visibility="gone"/>
+        <ImageButton
+            android:background="@android:color/transparent"
+            android:src="@drawable/icon_share"
+            android:id="@+id/ib_share"
+            android:layout_marginLeft="8dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:visibility="gone"/>
+    </LinearLayout>
+
+</RelativeLayout>

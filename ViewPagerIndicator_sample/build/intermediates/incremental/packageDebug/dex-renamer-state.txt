@@ -1,0 +1,7 @@
+#Sat Jun 17 23:31:29 CST 2017
+base.0=D\:\\Android\\News\\ViewPagerIndicator_sample\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_825a27377eced9d031448d318e70edc214570caa
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=D\:\\Android\\News\\ViewPagerIndicator_sample\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_633600e23f79e54f6bf07e7744c99f25180136d6\\classes.dex
+base.1=D\:\\Android\\News\\ViewPagerIndicator_sample\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_633600e23f79e54f6bf07e7744c99f25180136d6
+file.0=D\:\\Android\\News\\ViewPagerIndicator_sample\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_825a27377eced9d031448d318e70edc214570caa\\classes.dex

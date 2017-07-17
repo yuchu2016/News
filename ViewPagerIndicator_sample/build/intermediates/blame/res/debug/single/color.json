@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\Android\\News\\ViewPagerIndicator_sample\\build\\intermediates\\res\\merged\\debug\\color\\vpi__dark_theme.xml",
+        "source": "D:\\Android\\News\\ViewPagerIndicator_sample\\build\\intermediates\\exploded-aar\\News\\ViewPagerIndicator_library\\unspecified\\res\\color\\vpi__dark_theme.xml"
+    },
+    {
+        "merged": "D:\\Android\\News\\ViewPagerIndicator_sample\\build\\intermediates\\res\\merged\\debug\\color\\vpi__light_theme.xml",
+        "source": "D:\\Android\\News\\ViewPagerIndicator_sample\\build\\intermediates\\exploded-aar\\News\\ViewPagerIndicator_library\\unspecified\\res\\color\\vpi__light_theme.xml"
+    }
+]
